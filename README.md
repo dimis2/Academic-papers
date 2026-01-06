@@ -8,13 +8,13 @@ This repository contains academic research papers developed during my undergradu
 
 The repository includes the following manuscripts:
 
-* **Bachelor’s Thesis**: *Honeycomb Kitaev Model – Anyons in an Exactly Solved Model and Beyond*
+* **Bachelor’s Thesis**: *Honeycomb Kitaev Model – Anyons in an Exactly Solved Model and Beyond*:
   A comprehensive theoretical study of the Kitaev honeycomb model, flux sectors, Majorana fermions, complex bond and matter fermions, and topological phase transitions, developed as part of my undergraduate degree in physics.
 
-* **Research Paper**: *Dynamic Evolution of Fermionic Parity in the Kitaev Honeycomb Model*
+* **Research Paper**: *Dynamic Evolution of Fermionic Parity in the Kitaev Honeycomb Model*:
   A theoretical–computational investigation of how local gauge variations affect global fermionic parity, based on large-scale lattice simulations and Pfaffian calculations.
 
-* **Technical Paper**: *Dynamic Exposure and Gain Control in a Dynamic Environment*
+* **Technical Paper**: *Dynamic Exposure and Gain Control in a Dynamic Environment*:
   A noise-aware algorithm for real-time exposure and gain control in imaging systems, combining image-gradient analysis, entropy measures, and temporal smoothing.
 
 ## Purpose
